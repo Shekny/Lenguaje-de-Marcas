@@ -1,0 +1,14 @@
+<restaurante>
+    <categoria nombre="Menu">
+        <categoria nombre="Plato Principal">
+            <nombre>Hamburguesa</nombre>
+            <precio>5,50€</precio>
+        <calorias>200cal</calorias>
+        </categoria>
+        <categoria nombre="Postre">
+             <nombre>Postre</nombre>
+            <precio>3,50€</precio>
+            <calorias>300cal</calorias>
+        </categoria>
+    </Menu>
+</restaurante>

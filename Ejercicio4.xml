@@ -1,0 +1,31 @@
+<concesionarios>
+    <concesionario nombre="Coches S.L. Granada">
+        <coche1>
+            <estado>Nuevo</estado>
+            <coche>BMW</coche>
+            <precio>100000€</precio>
+        </coche1>
+        <coche2>
+            <estado>Nuevo</estado>
+            <coche>Audi</coche>
+            <precio>54000€</precio>
+        </coche2>
+        <coche1>
+            <estado>Usado</estado>
+            <coche>Nissan</coche>
+            <precio>40000€</precio>
+        </coche1>
+    </concesionario>
+    <concesionario nombre="Rootcars And Vans S.L">
+        <coche>
+                <estado>Nuevo</estado>
+                <modelo>Peugeot</modelo>
+                <precio>12000€</precio>
+        </coche>
+        <coche>
+            <estado>Usado</estado>
+            <modelo>Megane</modelo>
+            <precio>2000€</precio>
+        </coche>
+    </concesionario>
+</concesionarios>

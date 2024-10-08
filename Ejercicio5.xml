@@ -1,0 +1,39 @@
+<tienda>
+    <clientes>
+        <nombre>Daniel</nombre>
+        <apellidos>Barrios Estevez</apellidos>
+        <correo>daniel@mail.com</correo>
+            <articulo>
+                <referencia nombre="M107">
+                    <nombre>Monitor17</nombre>
+                    <cantidad>1</cantidad>
+                    <precio moneda="eur">150</precio>
+                </referencia>
+                <referencia nombre="T54">
+                    <nombre>Teclado Mecanico</nombre>
+                    <cantidad>5</cantidad>
+                    <precio moneda="eur">8</precio>
+                </referencia>
+                <referencia nombre="R500">
+                    <nombre>Raton Wireless</nombre>
+                    <cantidad>10</cantidad>
+                    <precio moneda="eur">5</precio>
+                </referencia>
+            </articulo>
+        <nombre>Jose Antonio</nombre>
+        <apellidos>Garcia Perez</apellidos>
+        <correo>ja.garcia@gigamail.com</correo>
+            <articulo>
+                <referencia nombre="P500">
+                    <nombre>Pantalla Led 50</nombre>
+                    <cantidad>1</cantidad>
+                    <precio moneda="eur">150</precio>
+                </referencia>
+                <referencia nombre="P4SLIM">
+                    <nombre>Playstation4 Slim</nombre>
+                    <cantidad>1</cantidad>
+                    <precio moneda="eur">299</precio>
+                </referencia>
+            </articulo>
+    </clientes>
+</tienda>
