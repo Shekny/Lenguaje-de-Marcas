@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tienda>
+    <producto id="4543">
+        <nombre>Auriculares Inalambricos</nombre>
+        <precio moneda="eur">49.99</precio>
+        <descripcion>Auriculares comodos con conectividad bluetooth</descripcion>
+        <caracteristicas>
+            <caracteristica tipo="Cancelacion de ruido">Si</caracteristica>
+            <caracteristica tipo="Bateria de larga duracion">Si</caracteristica>
+            <caracteristica tipo="Controles tactiles">Si</caracteristica>
+        </caracteristicas>
+    </producto>
+    <producto id="76565">
+        <nombre>Libreta de Viaje</nombre>
+        <precio moneda="eur">8.95</precio>
+        <descripcion>Libreta compacta ideal para anotar tus aventuras</descripcion>
+        <caracteristicas>
+            <caracteristica tipo="Tapa dura resistente">Si</caracteristica>
+            <caracteristica tipo="Hojas rayadas">Si</caracteristica>
+            <caracteristica tipo="Bolsillo interior">Si</caracteristica>
+        </caracteristicas>
+    </producto>
+    <producto id="65345">
+        <nombre>Set de Te de Hierbas</nombre>
+        <precio moneda="eur">15.50</precio>
+        <descripcion>Seleccion de infusiones de hierbas relajantes</descripcion>
+        <variedades>
+            <variedad tipo="Te">Manzanilla</variedad>
+            <variedad tipo="Te">Menta</variedad>
+            <variedad tipo="Te">Te de jengibre</variedad>
+        </variedades>
+    </producto>
+</tienda>

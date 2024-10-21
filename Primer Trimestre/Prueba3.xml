@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empresa nombre="Infomasa">
+    <recursoshumanos>
+        <informacion tipo="Empleados">
+            <empleado nombre="Luis Perez Sanchez">
+                <edad>23 años</edad>
+                <estudios tipo="Carrera">Informatica</estudios>
+                <estadocivil>Casado</estadocivil>
+            </empleado>
+            <empleado nombre="Ana Ruiz">
+                <edad>20 años</edad>
+                <estudios tipo="FP">Desarrollo de aplicaciones web</estudios>
+                <estadocivil>Soltera</estadocivil>
+            </empleado>
+            <empleado nombre="Carmen Gomez">
+                <edad>34 años</edad>
+                <estudios tipo="FP">Desarrollo de aplicaciones web</estudios>
+                <estudios tipo="Carrera">Informatica</estudios>
+                <estadocivil>Casada</estadocivil>
+            </empleado>
+            <empleado nombre="Sergio Oloriz Ramirez">
+                <edad>29 años</edad>
+                <estudios tipo="Carrera">Informatica</estudios>
+                <estadocivil>Soltero</estadocivil>
+            </empleado>
+        </informacion>
+    </recursoshumanos>
+</empresa>

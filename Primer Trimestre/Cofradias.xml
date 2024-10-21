@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cofradias>
+    <dia nombre="Domingo de ramos 24/03/2024">
+        <hermandad nombre="Hermandad de la Borriquilla">
+            <fundacion>1947</fundacion>
+            <sede tipo="Iglesia">Iglesia de San Andres</sede>
+            <barrio>Albaicin</barrio>
+            <pasos>
+                <paso tipo="Misterio">Jesus en su entrada a Jerusalen</paso>
+                <paso tipo="Palio">Nuestra Señora de la Paz</paso>
+            </pasos>
+            <hora>
+                <salida>16:45</salida>
+                <carreraoficial>19:00</carreraoficial>
+                <encierro>22:20</encierro>
+            </hora>
+        </hermandad>
+        <hermandad nombre="Hermandad de la Santa Cena">
+            <fundacion>1926</fundacion>
+            <sede>Iglesia de Santo Domingo</sede>
+            <barrio>Realejo</barrio>
+            <pasos>
+                <paso tipo="Misterio">Santa cena</paso>
+                <paso tipo="Palio">Virgen de la Victoria</paso>
+            </pasos>
+            <hora>
+                <salida>18:00</salida>
+                <carreraoficial>19:40</carreraoficial>
+                <encierro>23:45</encierro>
+            </hora>
+        </hermandad>
+        <hermandad nombre="Las Maravillas">
+            <fundacion>1944</fundacion>
+            <sede>Iglesia de San Pedro y San Pablo</sede>
+            <barrio>Albaicin</barrio>
+            <pasos>
+                <paso tipo="Misterio">La Sentencia</paso>
+                <paso tipo="Palio">Virgen de las Maravillas</paso>
+            </pasos>
+            <hora>
+                <salida>19:00</salida>
+                <carreraoficial>20:15</carreraoficial>
+                <encierro>00:00</encierro>
+            </hora>
+        </hermandad>
+        <hermandad nombre="El Despojado">
+            <fundacion>1986</fundacion>
+            <sede>Parroquia San Emilio</sede>
+            <barrio>Ronda</barrio>
+            <pasos>
+                <paso tipo="Misterio">El Despojado</paso>
+                <paso tipo="Palio">Virgen del Dulce Nombre</paso>
+            </pasos>
+            <hora>
+                <salida>19:05</salida>
+                <carreraoficial>20:50</carreraoficial>
+                <encierro>00:45</encierro>
+            </hora>
+        </hermandad>
+        <hermandad nombre="Cautivo y la Encarnacion">
+            <fundacion>1981</fundacion>
+            <sede>Parroquia del Sagrario</sede>
+            <barrio>Catedral</barrio>
+            <pasos>
+                <paso tipo="Misterio">El Cautivo</paso>
+                <paso tipo="Palio">Maria Santisima de la Encarnacion</paso>
+            </pasos>
+            <hora>
+                <salida>17:45</salida>
+                <carreraoficial>21:20</carreraoficial>
+                <encierro>01:00</encierro>
+            </hora>
+        </hermandad>
+    </dia>
+    <dia nombre="Lunes Santo 25/03/2024">
+        <hermandad nombre="El Huerto">
+            <fundacion>1943</fundacion>
+            <sede>Monasterio de la Madre de Dios de las Comendadoras de Santiago</sede>
+            <barrio>Centro</barrio>
+            <pasos>
+                <paso tipo="Misterio">Nuestro Señor en el Huerto</paso>
+                <paso tipo="Palio">Maria Santisima de la Amargura Coronada</paso>
+            </pasos>
+            <hora>
+                <salida>17:00</salida>
+                <carreraoficial>19:00</carreraoficial>
+                <encierro>23:30</encierro>
+            </hora>
+        </hermandad>
+        <hermandad nombre="Hermandad del Trabajo">
+            <fundacion>1990</fundacion>
+            <sede>Parroquia del Corpus Christi</sede>
+            <barrio>Zaidin</barrio>
+            <pasos>
+                <paso tipo="Misterio">Santisimo Cristo del Trabajo</paso>
+                <paso tipo="Palio">Nuestra Señora de la Luz</paso>
+            </pasos>
+            <hora>
+                <salida>16:00</salida>
+                <carreraoficial>19:30</carreraoficial>
+                <encierro>02:30</encierro>
+            </hora>
+        </hermandad>
+        <hermandad nombre="Los Dolores">
+            <fundacion>1937</fundacion>
+            <sede>Monasterio de San Pedro y San Pablo</sede>
+            <barrio>Albaicin</barrio>
+            <pasos>
+                <paso tipo="Palio">Nuestra Señora de los Dolores</paso>
+            </pasos>
+            <hora>
+                <salida>18:00</salida>
+                <carreraoficial>20:10</carreraoficial>
+                <encierro>00:40</encierro>
+            </hora>
+        </hermandad>
+        <hermandad nombre="El Rescate">
+            <fundacion>1925</fundacion>
+            <sede>Parroquia del Corpus Crhisti</sede>
+            <barrio>Zaidin</barrio>
+            <pasos>
+                <paso tipo="Palio">Santa Maria de Magdalena</paso>
+            </pasos>
+            <hora>
+                <salida>18:00</salida>
+                <carreraoficial>20:40</carreraoficial>
+                <encierro>00:00</encierro>
+            </hora>
+        </hermandad>
+        <hermandad nombre="San Agustin">
+            <fundacion>1989</fundacion>
+            <sede>Monasterio del Santo Angel Custodio</sede>
+            <barrio>Centro</barrio>
+            <pasos>
+                <paso tipo="Misterio">Jesus Nazareno de las Penas</paso>
+                <paso tipo="Palio">Nuestra Madre y Señora de la Consolacion</paso>
+            </pasos>
+            <hora>
+                <salida>20:30</salida>
+                <carreraoficial>21:20</carreraoficial>
+                <encierro>00:30</encierro>
+            </hora>
+        </hermandad>
+    </dia>
+</cofradias>
